@@ -1,0 +1,37 @@
+{
+  "name": "gulp-tailwindcss-export-config",
+  "version": "1.0.0",
+  "description": "A Gulp Wrapper for tailwindcss-export-config",
+  "main": "src/index.js",
+  "files": [
+    "src/index.js"
+  ],
+  "keywords": [
+  	"gulp",
+    "tailwindcss",
+    "scss",
+    "sass",
+    "less",
+    "stylus",
+    "css-next",
+    "node",
+    "export"
+  ],
+  "author": {
+    "name": "Daniel 'Eisbehr' Kern",
+    "email": "jquery@eisbehr.de",
+    "url": "http://eisbehr.de/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/dkern/gulp-tailwindcss-export-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dkern/gulp-tailwindcss-export-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkern/gulp-tailwindcss-export-config/issues"
+  },
+  "dependencies": {
+    "tailwindcss-export-config": "^2.3.0"
+  }
+}
