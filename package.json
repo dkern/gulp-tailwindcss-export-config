@@ -1,7 +1,7 @@
 {
   "name": "gulp-tailwindcss-export-config",
-  "version": "1.0.0",
-  "description": "A Gulp Wrapper for tailwindcss-export-config",
+  "version": "1.0.1",
+  "description": "A Gulp Wrapper for tailwindcss-export-config.",
   "main": "src/index.js",
   "files": [
     "src/index.js"
